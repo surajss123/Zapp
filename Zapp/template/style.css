@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Pacifico&family=Sedan+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Pacifico&family=Sedan+SC&display=swap');
+.logo{
+    font-size: 40px;
+    font-family: "Pacifico", cursive;
+}
+.minlogo{
+    font-size: 30px;
+}
+.showcase{
+    height: auto;
+    width: 100%;
+}
+.image{
+    background-image: url('/images/img-1.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.home-title{
+    font-family: "Libre Baskerville", serif;
+}
+.head{
+    font-weight: bold;
+}
+.img-fluid{
+    width: 100%;
+}
+.service{
+    height: 200px;
+}
